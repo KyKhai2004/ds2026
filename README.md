@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: NGUYEN KY KHAI
 * Student ID: 22BA13168
-* Student Group ID: Not-for-now
+* Student Group ID: 20
